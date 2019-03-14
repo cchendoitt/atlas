@@ -1,0 +1,19 @@
+{
+  "name": "atlas",
+  "version": "1.0.0",
+  "description": "Github is free until it is not free",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchendoitt/atlas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchendoitt/atlas/issues"
+  },
+  "homepage": "https://github.com/cchendoitt/atlas#readme"
+}
